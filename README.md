@@ -1,1 +1,1 @@
-My alx-pre_course readme
+ALX SE is awesome.
